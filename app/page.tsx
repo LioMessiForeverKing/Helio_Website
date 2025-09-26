@@ -138,7 +138,7 @@ export default function Home() {
         <div ref={logoRef} className="mb-16 transform-gpu" style={{ transform: 'scale(0.5) rotate(-10deg)', opacity: 0 }}>
           <div className="relative">
         <Image
-              src="/assets/logo.svg"
+              src="/assets/Helio.png"
               alt="Helio Logo"
               width={192}
               height={192}
@@ -247,8 +247,8 @@ export default function Home() {
           <div className="mb-12">
             <div className="relative inline-block">
           <Image
-                src="/assets/logo.svg" 
-                alt="Helio Logo" 
+                src="/assets/Helio.png"
+                alt="Helio Logo"
                 width={80}
                 height={80}
                 className="w-20 h-20 mx-auto opacity-70 drop-shadow-lg"
