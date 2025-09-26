@@ -257,7 +257,7 @@ export default function Home() {
             </div>
           </div>
           <p className="text-xl text-slate-600 font-light tracking-wide">
-            Helio — Bringing light to women&apos;s health
+            Lucina — Bringing light to women&apos;s health
           </p>
           <div className="mt-8 flex justify-center space-x-8">
             <div className="w-2 h-2 bg-gradient-to-r from-amber-300 to-orange-300 rounded-full opacity-60"></div>
