@@ -154,7 +154,7 @@ export default function Home() {
             Helio
           </h1>
           <p className="hero-subtitle text-2xl md:text-3xl text-slate-600 font-light leading-relaxed max-w-3xl mx-auto" style={{ opacity: 0, transform: 'translateY(50px)' }}>
-            Bringing light to women&apos;s health patterns
+            Phase I(Lucina): Bringing light to women&apos;s health patterns
           </p>
         </div>
       </section>
