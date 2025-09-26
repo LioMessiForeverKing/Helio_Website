@@ -247,7 +247,7 @@ export default function Home() {
           <div className="mb-12">
             <div className="relative inline-block">
           <Image
-                src="/assets/Helio.png"
+                src="/assets/logo.svg"
                 alt="Helio Logo"
                 width={80}
                 height={80}
