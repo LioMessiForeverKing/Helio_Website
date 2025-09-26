@@ -165,14 +165,14 @@ export default function Home() {
         <section ref={el => { storyRefs.current[0] = el; }} className="relative">
           <div className="absolute -left-4 top-0 w-1 h-full bg-gradient-to-b from-amber-200 via-orange-200 to-transparent opacity-60"></div>
           <p className="story-paragraph text-xl md:text-2xl text-slate-700 leading-relaxed font-light pl-8 text-smooth">
-            I met A about a year ago. From the first day she felt like a force of energy. She grew up sailing and she still loves the water. She never misses a chance to travel and she spends hours at the gym because moving her body makes her feel alive. She is the kind of friend who fills a room and lifts others with her energy.
+            I met A. about a year ago. From the first day she felt like a force of energy. She grew up sailing and she still loves the water. She never misses a chance to travel and she spends hours at the gym because moving her body makes her feel alive. She is the kind of friend who fills a room and lifts others with her energy.
           </p>
         </section>
 
         <section ref={el => { storyRefs.current[1] = el; }} className="relative">
           <div className="absolute -left-4 top-0 w-1 h-full bg-gradient-to-b from-rose-200 via-pink-200 to-transparent opacity-60"></div>
           <p className="story-paragraph text-xl md:text-2xl text-slate-700 leading-relaxed font-light pl-8 text-smooth">
-            In May of this year that energy started to fade. A began experiencing pain and fatigue that circled back around her period. At first it seemed like an inconvenience but quickly it became something heavier. Doctors ran blood tests, ordered imaging, and wrote in their notes that everything was normal. Nothing matched what she felt in her body. Each time she heard &ldquo;normal&rdquo; she grew quieter, less certain of herself, less believed.
+            In May of this year that energy started to fade. A. began experiencing pain and fatigue that circled back around her period. At first it seemed like an inconvenience but quickly it became something heavier. Doctors ran blood tests, ordered imaging, and wrote in their notes that everything was normal. Nothing matched what she felt in her body. Each time she heard &ldquo;normal&rdquo; she grew quieter, less certain of herself, less believed.
           </p>
         </section>
 
@@ -186,7 +186,7 @@ export default function Home() {
         <section ref={el => { storyRefs.current[3] = el; }} className="relative">
           <div className="absolute -left-4 top-0 w-1 h-full bg-gradient-to-b from-purple-200 via-violet-200 to-transparent opacity-60"></div>
           <p className="story-paragraph text-xl md:text-2xl text-slate-700 leading-relaxed font-light pl-8 text-smooth">
-            This is not just A&apos;s story. My mother had her own struggles when she was young and pregnant. Her hemoglobin and estrogen levels were low and she fainted often. My grandmother lived with chronic dizziness and blood pressure that was always low. Friends tell me about pelvic pain that comes and goes, heavy bleeding, sudden exhaustion, mood swings. These are echoes of the same story. They cross generations. They appear in different bodies. They are everywhere.
+            This is not just A.&apos;s story. My mother had her own struggles when she was young and pregnant. Her hemoglobin and estrogen levels were low and she fainted often. My grandmother lived with chronic dizziness and blood pressure that was always low. Friends tell me about pelvic pain that comes and goes, heavy bleeding, sudden exhaustion, mood swings. These are echoes of the same story. They cross generations. They appear in different bodies. They are everywhere.
           </p>
         </section>
 
@@ -200,7 +200,7 @@ export default function Home() {
         <section ref={el => { storyRefs.current[5] = el; }} className="relative">
           <div className="absolute -left-4 top-0 w-1 h-full bg-gradient-to-b from-indigo-200 via-blue-200 to-transparent opacity-60"></div>
           <p className="story-paragraph text-xl md:text-2xl text-slate-700 leading-relaxed font-light pl-8 text-smooth">
-            What A lives through is the result of a system that was never designed to see cycles. Pain, fatigue, and bleeding flare at predictable points each month, but tests and imaging are ordered at random times. Short visits cannot capture weeks of suffering. The data looks episodic while the reality is rhythmic. That gap between what is measured and what is lived is why A feels invisible.
+            What A. lives through is the result of a system that was never designed to see cycles. Pain, fatigue, and bleeding flare at predictable points each month, but tests and imaging are ordered at random times. Short visits cannot capture weeks of suffering. The data looks episodic while the reality is rhythmic. That gap between what is measured and what is lived is why A. feels invisible.
           </p>
         </section>
 
@@ -235,7 +235,7 @@ export default function Home() {
         <section ref={el => { storyRefs.current[10] = el; }} className="relative">
           <div className="absolute -left-4 top-0 w-1 h-full bg-gradient-to-b from-blue-300 via-cyan-300 to-transparent opacity-70"></div>
           <p className="story-paragraph text-xl md:text-2xl text-slate-700 leading-relaxed font-light pl-8 text-smooth">
-            A is my friend and she is the reason I started this. But she is not alone. Behind her story are millions of women, mothers, and daughters who deserve clarity. Helio&apos;s Lucina is for them.
+            A. is my friend and she is the reason I started this. But she is not alone. Behind her story are millions of women, mothers, and daughters who deserve clarity. Helio&apos;s Lucina is for them.
           </p>
         </section>
 
