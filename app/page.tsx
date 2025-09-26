@@ -235,7 +235,7 @@ export default function Home() {
         <section ref={el => { storyRefs.current[10] = el; }} className="relative">
           <div className="absolute -left-4 top-0 w-1 h-full bg-gradient-to-b from-blue-300 via-cyan-300 to-transparent opacity-70"></div>
           <p className="story-paragraph text-xl md:text-2xl text-slate-700 leading-relaxed font-light pl-8 text-smooth">
-            Sophia is my friend and she is the reason I started this. But she is not alone. Behind her story are millions of women, mothers, and daughters who deserve clarity. Helio's Lucina is for them.
+            Sophia is my friend and she is the reason I started this. But she is not alone. Behind her story are millions of women, mothers, and daughters who deserve clarity. Helio&apos;s Lucina is for them.
           </p>
         </section>
 
